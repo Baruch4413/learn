@@ -1,14 +1,4 @@
 1. Pensamiento matemático
-    1.2 Razonamiento algebraico
-        1.2.3 Ecuaciones
-            1.2.3.1 Ecuaciones de primer grado: solución gráfica, matemática o aplicación
-            1.2.3.2 Ecuaciones de segundo grado: solución gráfica, matemática o aplicación
-        1.2.4 Sistemas de ecuaciones
-            1.2.4.1 Ecuaciones con dos o tres incógnitas: solución gráfica y matemática
-            1.2.4.2 Ecuaciones con dos o tres incógnitas: aplicación
-        1.2.5 Representaciones gráficas
-            1.2.5.1 Funciones
-            1.2.5.2 Relaciones
     1.3 Razonamiento estadístico y probabilístico
         1.3.1 Frecuencias e información gráfica
             1.3.1.1 Uso e interpretación de tablas de frecuencias
@@ -23,13 +13,6 @@
         1.3.4 Nociones de probabilidad
             1.3.4.1 Problemas de conteo
             1.3.4.2 Cálculo de probabilidad
-    1.4 Razonamiento geométrico
-        1.4.1 Puntos, segmentos y plano cartesiano
-            1.4.1.1 Puntos y coordenadas: ubicación en el plano cartesiano
-            1.4.1.2 Puntos que dividen segmentos
-        1.4.2 Línea recta
-            1.4.2.1 Ecuación de la línea recta
-            1.4.2.2 Graficación de rectas
     1.5 Razonamiento trigonométrico
         1.5.1 Funciones trigonométricas
             1.5.1.1 Función seno: cálculo y graficación
@@ -38,43 +21,6 @@
         1.5.2 Triángulos rectángulos u oblicuángulos
             1.5.2.1 Razones trigonométricas
             1.5.2.2 Problemas con ley de senos y cosenos
-2. Pensamiento analítico
-    2.1 Integración de información
-        2.1.1 Información textual
-            2.1.1.1 Conclusiones a partir de dos textos
-            2.1.1.2 Proposiciones erróneas
-        2.1.2 Información gráfica
-            2.1.2.1 Conclusiones a partir de un texto y una tabla, imagen o mapa
-            2.1.2.2 Proposiciones erróneas
-    2.2 Interpretación de relaciones lógicas
-        2.2.1 Analogías
-            2.2.1.1 Frases con el mismo sentido
-            2.2.1.2 Pares de palabras con una relación equivalente
-            2.2.1.3 Proposiciones particulares y universales
-        2.2.2 Mensajes y códigos
-            2.2.2.1 Traducción y decodificación
-            2.2.2.2 Completamiento de elementos encriptados
-    2.3 Reconocimiento de patrones
-        2.3.1 Sucesiones numéricas
-            2.3.1.1 Completamiento con operaciones básicas
-            2.3.1.2 Errores
-        2.3.2 Sucesiones alfanuméricas
-            2.3.2.1 Completamiento con patrones regulares
-            2.3.2.2 Errores
-        2.3.3 Sucesiones de figuras
-            2.3.3.1 Completamiento con patrones regulares
-            2.3.3.2 Errores
-    2.4 Representación espacial
-        2.4.1 Figuras y objetos
-            2.4.1.1 Perspectiva: sombras, reflejos, vistas y rotación
-            2.4.1.2 Combinación de figuras
-        2.4.2 Modificaciones a objetos
-            2.4.2.1 Armado y desarmado
-            2.4.2.2 Objetos resultantes de cortes
-        2.4.3 Operaciones con figuras y objetos
-            2.4.3.1 Número de elementos que integran o faltan en figuras u objetos
-            2.4.3.2 Número de lados de un polígono
-            2.4.3.3 Conteo de unidades sombreadas
 3. Biología
     3.1 Biología y sociedad
         3.1.1 El carácter científico y metodológico de la biología
